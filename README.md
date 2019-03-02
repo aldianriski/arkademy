@@ -1,4 +1,7 @@
 # arkademy
+hasil dari peserta seleksi bootcamp
+Nama : Muhammad aldian riski
+
 berisi file ujian soal tipe B untuk tes bootcamp arkademy
 
 pada arkademy.rar berisi file sistem sensus penduduk dengan tampilan menggunakan bootsrap dan framework CI
