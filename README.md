@@ -1,6 +1,5 @@
-# arkademy
-hasil dari peserta seleksi bootcamp
-Nama : Muhammad aldian riski
+# arkademy - Muhammad aldian riski - Soal B
+
 
 berisi file ujian soal tipe B untuk tes bootcamp arkademy
 
